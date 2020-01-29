@@ -1,5 +1,3 @@
-#Estoy probando como escribir decentemente ficheros markdown
+# Estoy probando como escribir decentemente ficheros markdown
 
-##Si, he dicho decentemente
-
-# 
+## Si, he dicho decentemente
