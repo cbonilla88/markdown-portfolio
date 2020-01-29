@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Monkey Island](https://m.eldiario.es/cultura/The-Secret-of-Monkey-Island_EDIIMA20150915_0161_19.jpg)
