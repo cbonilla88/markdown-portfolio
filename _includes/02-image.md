@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Monkey Island](https://m.eldiario.es/cultura/The-Secret-of-Monkey-Island_EDIIMA20150915_0161_19.jpg)
